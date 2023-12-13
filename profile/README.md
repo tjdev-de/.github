@@ -1,4 +1,4 @@
-<h3 align="center">:arrow_down:&nbsp;&nbsp;&nbsp;All of our projects have moved here&nbsp;&nbsp;&nbsp;:arrow_down:</h3>
+<h3 align="center">⬇️&nbsp;&nbsp;&nbsp;All of our projects have moved here&nbsp;&nbsp;&nbsp;⬇️</h3>
 <h1><table align="center"><tr><td><a href="https://git.tjdev.de/tjdev">git.tjdev.de/tjdev</a></td></tr></table></h1>
 <br />
 
